@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓I'm currently a Student<br>👨‍💻I'm currently learning web development<br>👨‍🏫Ask me about web development
+👨‍🎓I'm currently a Computer Science Gradute<br>👨‍💻I'm currently learning web development<br>👨‍🏫Ask me about web development
 
 
 ## 🌐 Socials:
