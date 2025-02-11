@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓I'm currently a Computer Science Gradute<br>👨‍💻I'm currently learning web development<br>👨‍🏫Ask me about web development
+👨‍🎓I'm have completed a degree in Computer Science Engineering<br>👨‍💻I'm a full stack web developer<br>👨‍🏫Ask me about web development
 
 
 ## 🌐 Socials:
